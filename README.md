@@ -1,6 +1,6 @@
 ## Oii, sou a Giovanna Furlan
 
-- 📚 Estou estudando Cienciâ da Computação no INTELI
+- 📚 Estou estudando Sistemas de Informação o no INTELI
 
  <div>
   <a href="https://github.com/furlan2803">
